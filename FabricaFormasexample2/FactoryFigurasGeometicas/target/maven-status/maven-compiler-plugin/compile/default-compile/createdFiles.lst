@@ -1,0 +1,13 @@
+mx\itson\edu\figurasgeometricas\entidades\Mago.class
+mx\itson\edu\figurasgeometricas\entidades\Circulo.class
+mx\itson\edu\figurasgeometricas\principal\Main.class
+mx\itson\edu\figurasgeometricas\entidades\FabricaCirculos.class
+mx\itson\edu\figurasgeometricas\entidades\Rectangulo.class
+mx\itson\edu\figurasgeometricas\interfaces\Personaje.class
+mx\itson\edu\figurasgeometricas\entidades\FabricaMagos.class
+mx\itson\edu\figurasgeometricas\entidades\Guerrero.class
+mx\itson\edu\figurasgeometricas\interfaces\FormaGeometrica.class
+mx\itson\edu\figurasgeometricas\entidades\FabricaGuerreros.class
+mx\itson\edu\figurasgeometricas\interfaces\FabricaPersonajes.class
+mx\itson\edu\figurasgeometricas\entidades\FabricaRectangulos.class
+mx\itson\edu\figurasgeometricas\interfaces\FabricaFormas.class
